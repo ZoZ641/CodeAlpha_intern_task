@@ -47,7 +47,7 @@ Make sure you have Python 3.7+ installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iris-classification.git
+git clone https://github.com/ZoZ641/CodeAlpha_intern_task
 cd iris-classification
 ```
 
@@ -138,11 +138,4 @@ prediction = model.predict(new_flower)
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Ronald Fisher** - For introducing the Iris dataset (1936)
-- **UC Irvine ML Repository** - For maintaining the dataset
-- **Scikit-learn contributors** - For the excellent ML library
-- **Kaggle community** - For dataset accessibility
 
