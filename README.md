@@ -18,4 +18,4 @@ This repo includes **three data science projects**, each with its own README to 
    cd CodeAlpha_intern_task
 
 ## 📝 License
-This project is licensed under the MIT License – see the [[LICENCE](CodeAlpha_intern_task/LICENCE)] file for details.
+This project is licensed under the MIT License – see the [[LICENCE](LICENCE)] file for details.
