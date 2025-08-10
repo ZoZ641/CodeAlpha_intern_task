@@ -47,7 +47,7 @@ Make sure you have Python 3.7+ installed on your system.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-price-prediction.git
+https://github.com/ZoZ641/CodeAlpha_intern_task
 cd car-price-prediction
 ```
 
@@ -136,7 +136,8 @@ prediction = model.predict(new_car)
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [[LICENSE](LICENSE)](https://github.com/ZoZ641/CodeAlpha_intern_task/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [[LICENSE](LICENSE) file for details.
 
 
 ---
+
