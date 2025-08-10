@@ -136,6 +136,7 @@ prediction = model.predict(new_car)
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [[LICENSE](LICENSE)](https://github.com/ZoZ641/CodeAlpha_intern_task/blob/main/LICENSE) file for details.
+
 
 ---
