@@ -47,7 +47,7 @@ Make sure you have Python 3.7+ installed on your system.
 1. Clone the repository:
 
 ```bash
-https://github.com/ZoZ641/CodeAlpha_intern_task
+git clone https://github.com/ZoZ641/CodeAlpha_intern_task
 cd car-price-prediction
 ```
 
@@ -140,4 +140,5 @@ This project is licensed under the MIT License - see the [[LICENSE](LICENSE) fil
 
 
 ---
+
 
