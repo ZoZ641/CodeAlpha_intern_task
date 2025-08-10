@@ -46,7 +46,7 @@ Ensure you have Python 3.7+ installed.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sales-prediction.git
+git clone https://github.com/ZoZ641e/CodeAlpha_intern_task.git
 cd sales-prediction
 ```
 
@@ -121,4 +121,5 @@ prediction = model.predict(new_data)
 ## 📝 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
